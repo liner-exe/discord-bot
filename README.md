@@ -1,1 +1,1 @@
-# DS-BOT
+# discord-slash-bot
